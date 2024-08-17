@@ -4,7 +4,7 @@
     <h2>Eksplorasi GitHub</h2>
 
     <?php
-    echo "New to GitHub";
+    echo "Hello! New to GitHub";
     ?>
 
   </body>
